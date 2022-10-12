@@ -1,4 +1,3 @@
-//Collaborated with Danielle May, Eddie Phi, Brenda Burns, Shannon Quinn, Michael Jones, Sarah Manter
 
 //Time
 let update = function () {
